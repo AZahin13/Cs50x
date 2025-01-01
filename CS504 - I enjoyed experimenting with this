@@ -1,5 +1,5 @@
 //Let's learn how to use variables
-//I want to make a programme that counts to 100
+//I want to make a programme that counts to 10
 #include <stdio.h>
 #include <cs50.h>
 #include <unistd.h>
