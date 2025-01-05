@@ -5,6 +5,8 @@ int main(void)
 {
     // An array needs a data type
     // it is then initialised by arrayname[]
+    // each value of an array is repped by
+    // index[0] with 0 being the first value
     double prices[] = {1.0, 2.0, 3.0, 4.0};
     
     // you can individually call upon an array
