@@ -3,7 +3,7 @@
 // helps you measure time taken for each algo
 
 #include <stdio.h>
-#define MAX 10 // allows me not to hardcode array size
+#define MAX 10 
 
 void sel_sort(int array[]);
 void bub_sort(int array[]);
