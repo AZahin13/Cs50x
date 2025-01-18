@@ -8,5 +8,5 @@ Week1 - Intro into C\
 Week2 - Arrays\
 Week3 - Algorithms\
 Week4 - Memory\
-Week5 - Data Structures\
+Week5 - Data Structures
 
